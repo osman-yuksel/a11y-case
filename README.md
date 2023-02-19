@@ -3,6 +3,5 @@
 <code>git clone https://github.com/osman-yuksel/a11y-case.git
 cd a11y-case
 npm install 
-npm run dev
-</code>
+npm run dev</code>
 </div>
